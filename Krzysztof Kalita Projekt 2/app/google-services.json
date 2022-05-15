@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "177868299145",
+    "firebase_url": "https://projekt2multiwersja2-default-rtdb.firebaseio.com",
+    "project_id": "projekt2multiwersja2",
+    "storage_bucket": "projekt2multiwersja2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177868299145:android:0e927546f31056488edf58",
+        "android_client_info": {
+          "package_name": "com.example.projekt2multi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177868299145-3hb55p771c67evgglesggat5a5pmqdgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBikUbDDAX1bMnroxi0Bt_z3w_jf0SNxT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177868299145-3hb55p771c67evgglesggat5a5pmqdgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
